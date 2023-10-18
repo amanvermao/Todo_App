@@ -1,0 +1,21 @@
+.items{
+  padding-top: 20px;
+}
+
+.data{
+    display: flex;
+   gap: 10px;
+   justify-content: center;
+   align-items: center;
+}
+.btn2{
+    width: 60px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    background-color: red;
+    border-radius: 6px;
+    color: white;
+
+}
+

@@ -1,0 +1,29 @@
+.btn{
+    width: 60px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    background-color: green;
+    border-radius: 6px;
+    color: white;
+
+}
+
+.inputs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+   
+}
+.inputs input{
+    width: 370px;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid rgb(255, 165, 165);  
+    color: white;
+    font-size: 40px;
+    background: transparent;
+   border-radius: 5px;
+}
